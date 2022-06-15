@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TracyWhitneyAkinyi
 - 👀 I’m interested in Data Analysis/Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning using Python and JavaScript
+- 🌱 I’m currently learning Machine Learning using Python.
 - 💞️ I’m looking to collaborate on anything involving Data Analysis.
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/tracy-akinyi-06a8961a4
 
